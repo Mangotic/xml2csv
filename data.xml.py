@@ -8,7 +8,7 @@ import math
 import sys
 import threading
 
-stop_thread = False
+stop_thread = False #ensures exe is working
 
 def process_element(element, element_names):
     data = {}
